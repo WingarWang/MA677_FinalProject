@@ -374,7 +374,7 @@ ggplot(data = df) +
 # What did you learn? What will you do next? What will you do differently as you move forward?
 In this project, I learned Gamma MLE, MSE, Order Statistics, profile likelihood, gained a deeper understanding of the application of Empirical Bayes, and judged which model should be used based on distribution and QQ plots.
 
-"In All Likelihood" and "Introduction to Empirical Bayesian" are two very valuable books. Due to limited time, I will continue to read them in the summer vacation, and also try to finish the Shaksapre and Medical Example in the second book. Of course, I will continue to consolidate and digest the knowledge in Class 677.
+"In All Likelihood" and "Introduction to Empirical Bayesian" are two very valuable books. Due to limited time, I will continue to read them in the summer vacation, and also try to finish the Shaksapre and Medical tasks in the second book. Of course, I will continue to consolidate and digest the knowledge in Class 677.
 
 When translating the examples in "Introduction to Empirical Bayesian" to R, I ran into a lot of technical problems, like how to code formulas. So just learning the knowledge from the textbook is not enough, it needs more practice.
 
