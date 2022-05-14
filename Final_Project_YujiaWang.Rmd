@@ -382,9 +382,9 @@ When translating the examples in "Introduction to Empirical Bayesian" to R, I ra
 
 # Reference
 1. Order Statistics: https://stackoverflow.com/questions/24211595/order-statistics-in-r?msclkid=fd6683dac56711ecbfcea9bd8a172395
-2. Yuli Jin: https://github.com/MA615-Yuli/MA677_final
-3. Shuting Li: https://github.com/lst9/MA677-Final-Project
-4. Profile Likelihood: https://www.r-bloggers.com/2015/11/profile-likelihood/
+2. Profile Likelihood: https://www.r-bloggers.com/2015/11/profile-likelihood/
+3. Yuli Jin: https://github.com/MA615-Yuli/MA677_final
+4. Shuting Li: https://github.com/lst9/MA677-Final-Project
 5. Gamma QQ Plot: https://stackoverflow.com/questions/50092506/how-to-draw-a-qq-plot-in-r
 
 
